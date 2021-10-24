@@ -1,10 +1,10 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
+* Last name: Shnayder
 
-* First name:
+* First name: Jonathan
 
-* GitHub username:
+* GitHub username: JonathanDog
 
 * Notes:
 
